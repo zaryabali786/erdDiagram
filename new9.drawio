@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T14:40:39.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dNsts8fP6xnOf1Pr94ZE" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T14:46:54.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dAyvHuKnr5pIS6lLPCi7" version="20.4.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1642" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="3oIOAp_6EH98L1CWe2Qc-39" value="Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="240" width="140" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="3oIOAp_6EH98L1CWe2Qc-40" value="customerFirstName&#xa;customerCnic&#xa;customerSecondName&#xa;customerEmail&#xa;state&#xa;country" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="3oIOAp_6EH98L1CWe2Qc-39" vertex="1">
+        <mxCell id="3oIOAp_6EH98L1CWe2Qc-40" value="customerFirstName&#xa;customerCnic&#xa;customerSecondName&#xa;customerEmail&#xa;state&#xa;country&#xa;dateOfBirth" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="3oIOAp_6EH98L1CWe2Qc-39" vertex="1">
           <mxGeometry y="30" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3oIOAp_6EH98L1CWe2Qc-41" value="customerAddress&#xa;customerNumber" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="3oIOAp_6EH98L1CWe2Qc-39" vertex="1">
@@ -117,13 +117,13 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKyvgskDZJysEfLxHvgt-2" value="payment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="420" width="140" height="90" as="geometry" />
+          <mxGeometry x="570" y="420" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OKyvgskDZJysEfLxHvgt-3" value="&#xa;checkInid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-2" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OKyvgskDZJysEfLxHvgt-4" value="paymentType&#xa;refund" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-2" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="OKyvgskDZJysEfLxHvgt-4" value="paymentType&#xa;refund\&#xa;reciept&#xa;amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-2" vertex="1">
+          <mxGeometry y="60" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OKyvgskDZJysEfLxHvgt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OKyvgskDZJysEfLxHvgt-8" edge="1" target="3oIOAp_6EH98L1CWe2Qc-58">
           <mxGeometry relative="1" as="geometry">
