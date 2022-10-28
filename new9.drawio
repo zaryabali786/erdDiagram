@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:09:26.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_5C6ooqW-sGl240SMAX0" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T11:27:30.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EEdfYkYvBA6pQaleikF7" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2916" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2447" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="3oIOAp_6EH98L1CWe2Qc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3oIOAp_6EH98L1CWe2Qc-14" target="3oIOAp_6EH98L1CWe2Qc-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wsyv254u7rsvL-wGs1f3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3oIOAp_6EH98L1CWe2Qc-14">
+        <mxCell id="wsyv254u7rsvL-wGs1f3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3oIOAp_6EH98L1CWe2Qc-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="773" as="targetPoint" />
             <Array as="points">
@@ -93,7 +93,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKyvgskDZJysEfLxHvgt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3oIOAp_6EH98L1CWe2Qc-39" target="OKyvgskDZJysEfLxHvgt-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="790" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3oIOAp_6EH98L1CWe2Qc-39" value="Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="240" width="140" height="170" as="geometry" />
@@ -125,16 +129,13 @@
         <mxCell id="OKyvgskDZJysEfLxHvgt-3" value="&#xa;checkInid&#xa;bookedRoomId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-2" vertex="1">
           <mxGeometry y="30" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OKyvgskDZJysEfLxHvgt-4" value="paymentMethod&#xa;cardType&#xa;cardnumber&#xa;cardexpiry&#xa;carholdername&#xa;refund\&#xa;reciept&#xa;amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-2" vertex="1">
+        <mxCell id="OKyvgskDZJysEfLxHvgt-4" value="paymentMethod&#xa;cardType&#xa;cardNumber&#xa;cardExpiry&#xa;cardHolderName&#xa;refund&#xa;reciept&#xa;amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-2" vertex="1">
           <mxGeometry y="80" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wsyv254u7rsvL-wGs1f3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OKyvgskDZJysEfLxHvgt-8">
+        <mxCell id="wsyv254u7rsvL-wGs1f3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OKyvgskDZJysEfLxHvgt-8" edge="1" target="OKyvgskDZJysEfLxHvgt-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="640" />
-              <mxPoint x="670" y="640" />
-            </Array>
+            <mxPoint x="680" y="570" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OKyvgskDZJysEfLxHvgt-8" value="bookedRoom" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -197,7 +198,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsyv254u7rsvL-wGs1f3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OKyvgskDZJysEfLxHvgt-10">
+        <mxCell id="wsyv254u7rsvL-wGs1f3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OKyvgskDZJysEfLxHvgt-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="430" as="targetPoint" />
           </mxGeometry>
