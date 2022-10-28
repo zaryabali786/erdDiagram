@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T10:22:26.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I7cx0R2Nbig6HHXUUEXm" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T10:24:21.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JXVe0tCt5LUXm6n5TvC7" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1376" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -118,7 +118,7 @@
             <mxRectangle width="40" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRih_vK3OyAYS8As8qdR-30" value="stockTypeId&lt;br&gt;&lt;br&gt;manufactureId&lt;br&gt;vendorId&lt;br&gt;purchaseId&lt;br&gt;isWarranted&lt;br&gt;warrantyDuration" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="aRih_vK3OyAYS8As8qdR-28">
+        <mxCell id="aRih_vK3OyAYS8As8qdR-30" value="stockTypeId&lt;br&gt;manufactureId&lt;br&gt;vendorId&lt;br&gt;purchaseDate&lt;br&gt;price&lt;br&gt;isWarranted&lt;br&gt;warrantyDuration" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="aRih_vK3OyAYS8As8qdR-28">
           <mxGeometry x="40" width="140" height="120" as="geometry">
             <mxRectangle width="140" height="120" as="alternateBounds" />
           </mxGeometry>
