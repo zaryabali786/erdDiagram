@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T10:10:45.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sQWE818_cF3X1oCKkPUr" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T10:12:16.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-JIeiK7rK4ZS1U_LKaah" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1524" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -126,7 +126,7 @@
             <mxRectangle width="40" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRih_vK3OyAYS8As8qdR-30" value="stockTypeId&lt;br&gt;stockCategoryId&lt;br&gt;manufactureId&lt;br&gt;vendorId&lt;br&gt;purchaseId&lt;br&gt;isWarranty&lt;br&gt;warrantyDuration" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="aRih_vK3OyAYS8As8qdR-28">
+        <mxCell id="aRih_vK3OyAYS8As8qdR-30" value="stockTypeId&lt;br&gt;stockCategoryId&lt;br&gt;manufactureId&lt;br&gt;vendorId&lt;br&gt;purchaseId&lt;br&gt;isWarranted&lt;br&gt;warrantyDuration" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="aRih_vK3OyAYS8As8qdR-28">
           <mxGeometry x="40" width="140" height="120" as="geometry">
             <mxRectangle width="140" height="120" as="alternateBounds" />
           </mxGeometry>
@@ -186,17 +186,11 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRih_vK3OyAYS8As8qdR-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aRih_vK3OyAYS8As8qdR-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="510" />
-              <mxPoint x="460" y="510" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="aRih_vK3OyAYS8As8qdR-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.606;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aRih_vK3OyAYS8As8qdR-58" target="aRih_vK3OyAYS8As8qdR-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aRih_vK3OyAYS8As8qdR-58" value="manufacture(osaka,wildcraft)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="600" width="180" height="120" as="geometry" />
+          <mxGeometry x="370" y="700" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aRih_vK3OyAYS8As8qdR-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aRih_vK3OyAYS8As8qdR-58">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
