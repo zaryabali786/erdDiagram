@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T10:12:43.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fggOq5NNlu11UIZ-epQa" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T10:12:53.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zuyPYvwwPUPtIz6pSd5V" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1524" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -6,14 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="aRih_vK3OyAYS8As8qdR-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aRih_vK3OyAYS8As8qdR-2" target="aRih_vK3OyAYS8As8qdR-12">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aRih_vK3OyAYS8As8qdR-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aRih_vK3OyAYS8As8qdR-2" target="aRih_vK3OyAYS8As8qdR-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="270" />
-              <mxPoint x="386" y="270" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="aRih_vK3OyAYS8As8qdR-2" value="stock category(hardware,furnitureetc)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="180" height="120" as="geometry" />
