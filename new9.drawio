@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T06:55:34.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ULtCCS5RGpdKN0xzjDiE" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T08:14:26.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="63ZH8npp6fKhpVGa0HLa" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2428" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="OKyvgskDZJysEfLxHvgt-8" value="bookedRoom" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="720" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="OKyvgskDZJysEfLxHvgt-10" value="customerId&#xa;roomId&#xa;expectedCheckIn&#xa;expectedCheckOut&#xa;payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-8" vertex="1">
+        <mxCell id="OKyvgskDZJysEfLxHvgt-10" value="customerId&#xa;roomId&#xa;expectedCheckIn&#xa;expectedCheckOut&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="OKyvgskDZJysEfLxHvgt-8" vertex="1">
           <mxGeometry y="30" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OKyvgskDZJysEfLxHvgt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OKyvgskDZJysEfLxHvgt-20" target="OKyvgskDZJysEfLxHvgt-24" edge="1">
@@ -199,6 +199,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eDEj4iUYCQshYAllVmRK-1" value="application form" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="120" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eDEj4iUYCQshYAllVmRK-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="eDEj4iUYCQshYAllVmRK-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eDEj4iUYCQshYAllVmRK-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="eDEj4iUYCQshYAllVmRK-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eDEj4iUYCQshYAllVmRK-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="eDEj4iUYCQshYAllVmRK-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
